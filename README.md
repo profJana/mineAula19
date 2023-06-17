@@ -1,7 +1,9 @@
 # mineAula19
 Iniciar a criação de um mundo mágico no Minecraft. Gerar e utilizar NPCs. Utilizar o TynkerBot para criar um muro gigante.
 
-Programação da atividade: crie o muro gigante com tochas: https://www.tynker.com/ide/v3?type=minecraft-windows-10&p=648df927c7c5975c493781c2
+Programação da atividade: crie o muro gigante com tochas: https://www.tynker.com/ide/v3?type=minecraft-windows-10&p=648dfb7e011e09252f04a961
+
+obs: fazer login com a conta profjanakt@gmail.com
 
 Passos para criar um NPC:
 - Primeiro, dê o comando “/wb” na janela de chat
